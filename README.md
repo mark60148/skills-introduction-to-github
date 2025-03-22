@@ -11,6 +11,8 @@
 
 _Get started using GitHub in less than an hour._
 
+This is a line from RStudio
+
 </header>
 
 <!--
